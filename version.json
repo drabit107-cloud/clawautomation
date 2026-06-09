@@ -1,5 +1,5 @@
 {
     "version": "1.0.1",
-    "changelog": "- Auto-update test successful!\n- Verified status is preserved on restore tasks.\n- Ready to roll out.",
-    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.0.0/ClawdAutomation.exe"
+    "changelog": "- Verified status is now preserved on restore tasks.\n- Fixed update checker popup loop.\n- Performance and UI enhancements.",
+    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.0.1/ClawdAutomation.exe"
 }
