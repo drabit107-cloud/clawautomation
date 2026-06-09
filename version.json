@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
-    "changelog": "- Verified status is now preserved on restore tasks.\n- Fixed update checker popup loop.\n- Performance and UI enhancements.",
-    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.0.1/ClawdAutomation.exe"
+    "version": "1.0.2",
+    "changelog": "- Per-account VPN location pinning (same city reused on every restore)\n- Fixed UI reaction post navigation (facewebmodal authenticated deep link)\n- Improved OpenVPN config selection with pinned_config support\n- Auto-save VPN config to account DB on first restore",
+    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.0.2/ClawdAutomation.exe"
 }
