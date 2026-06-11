@@ -1,5 +1,6 @@
 {
-    "version": "1.0.4",
-    "changelog": "- Added immediate abort logic for all device tasks (Account Creation, Restore, and Auto-Service) on VPN connection failure when OpenVPN mode is enabled.\n- Fixed tuple unpacking and silent error bypass bugs during VPN establishment.\n- Added clean-up mechanism to delete temporary database/UI rows on aborted account creation tasks.",
-    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.0.4/ClawdAutomation.exe"
+    "version": "1.0.5",
+    "mandatory": true,
+    "changelog": "- Fixed verify_clawd mode not getting correct phone numbers on retry (was falling back to random PH numbers)\n- Added Silver provider (ID 3228) as a separate selectable option alongside Gold (ID 3209)\n- Accounts now saved as Live (Novery) when OTP times out on smsbower/clawd — no more wasted accounts\n- Mandatory update support added (forces users to update before continuing)\n- Bug fixes and stability improvements",
+    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.0.5/ClawdAutomation.exe"
 }
