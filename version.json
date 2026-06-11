@@ -1,5 +1,5 @@
 {
-    "version": "1.0.3",
-    "changelog": "- Fixed force-close/crash bug when running more than 7 devices under high concurrent load.\n- Added thread-safe SQLite connection initialization and write serialization.\n- Performance and UI stability improvements.",
-    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.0.3/ClawdAutomation.exe"
+    "version": "1.0.4",
+    "changelog": "- Added immediate abort logic for all device tasks (Account Creation, Restore, and Auto-Service) on VPN connection failure when OpenVPN mode is enabled.\n- Fixed tuple unpacking and silent error bypass bugs during VPN establishment.\n- Added clean-up mechanism to delete temporary database/UI rows on aborted account creation tasks.",
+    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.0.4/ClawdAutomation.exe"
 }
