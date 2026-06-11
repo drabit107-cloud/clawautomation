@@ -1,6 +1,6 @@
 {
-    "version": "1.0.5",
+    "version": "1.0.6",
     "mandatory": true,
-    "changelog": "- Fixed verify_clawd mode not getting correct phone numbers on retry (was falling back to random PH numbers)\n- Added Silver provider (ID 3228) as a separate selectable option alongside Gold (ID 3209)\n- Accounts now saved as Live (Novery) when OTP times out on smsbower/clawd — no more wasted accounts\n- Mandatory update support added (forces users to update before continuing)\n- Bug fixes and stability improvements",
-    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.0.5/ClawdAutomation.exe"
+    "changelog": "- System security hardening and performance optimizations\n- API stability enhancements and balance verification updates\n- Fixed minor bugs and user authentication improvements",
+    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.0.6/ClawdAutomation.exe"
 }
