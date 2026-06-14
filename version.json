@@ -1,6 +1,6 @@
 {
-    "version": "1.0.7",
+    "version": "1.0.8",
     "mandatory": true,
-    "changelog": "- Fixed issues where the application suddenly closes or crashes without warning.\n- Improved system performance and speed to prevent freezing and lag.\n- Adjusted wallpaper setup sequence to make device preparation faster.\n- Added automatic error diagnostics to help the developer fix bugs faster.",
-    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.0.7/ClawdAutomation.exe"
+    "changelog": "- Fixed issues where the application suddenly closes or crashes without warning.\n- Improved system performance and speed to prevent freezing and lag.\n- Adjusted wallpaper setup sequence to make device preparation faster.\n- Added automatic error diagnostics to help the developer fix bugs faster.\n- Added remote device status tracking to allow monitoring active emulators.",
+    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.0.8/ClawdAutomation.exe"
 }
