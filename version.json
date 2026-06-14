@@ -1,6 +1,6 @@
 {
     "version": "1.0.7",
     "mandatory": true,
-    "changelog": "- Fixed silent force-close crash in PySide6/Qt6Core\n- Optimized background scanning loop to prevent lag and ADB timeouts\n- Relocated auto-wallpaper setting to Step 0 (Device Preparation) pipeline\n- Added thread and native crash exception loggers",
+    "changelog": "- Fixed issues where the application suddenly closes or crashes without warning.\n- Improved system performance and speed to prevent freezing and lag.\n- Adjusted wallpaper setup sequence to make device preparation faster.\n- Added automatic error diagnostics to help the developer fix bugs faster.",
     "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.0.7/ClawdAutomation.exe"
 }
