@@ -1,6 +1,6 @@
 {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "mandatory": true,
-    "changelog": "- Added safe limits for SMM comments and shares to prevent account bans.\n- Implemented active account collision checking to prevent concurrent operations.\n- Updated pricing to utilize real-time currency conversion rates.\n- Improved Facebook UI-based post-sharing reliability.",
-    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.1.0/ClawdAutomation.exe"
+    "changelog": "- Awtomatikong pinapabilis ang pagsisimula ng mga order sa pamamagitan ng pag-check kung aktibo ang account bago ito buksan.\n- Inayos ang ilang mga isyu sa pag-verify ng status ng account.",
+    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.1.1/ClawdAutomation.exe"
 }
