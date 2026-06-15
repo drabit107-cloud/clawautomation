@@ -1,6 +1,6 @@
 {
-    "version": "1.0.9",
+    "version": "1.1.0",
     "mandatory": true,
-    "changelog": "- Added Telegram command bot integration to queue tasks directly from group chat.\n- Added smart AI comment generation with interactive approval dialogs.\n- Refined Facebook app load checks to ensure screen is fully ready before proceeding.\n- Preserved account status labels (Verified and Novery) across automation runs.\n- Enabled automatic app data cleanup and VPN disconnection upon task completion.",
-    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.0.9/ClawdAutomation.exe"
+    "changelog": "- Added safe limits for SMM comments and shares to prevent account bans.\n- Implemented active account collision checking to prevent concurrent operations.\n- Updated pricing to utilize real-time currency conversion rates.\n- Improved Facebook UI-based post-sharing reliability.",
+    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.1.0/ClawdAutomation.exe"
 }
