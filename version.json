@@ -1,6 +1,6 @@
 {
     "version": "1.1.1",
     "mandatory": true,
-    "changelog": "- Awtomatikong pinapabilis ang pagsisimula ng mga order sa pamamagitan ng pag-check kung aktibo ang account bago ito buksan.\n- Inayos ang ilang mga isyu sa pag-verify ng status ng account.",
-    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/untagged-f3a0ba9b15dcd8a56b2c/ClawdAutomation.exe"
+    "changelog": "- Added 'Date Created' column to accounts table to track when they were created or imported.\n- Automatically speeds up starting orders by checking if the account is active before launching.\n- Fixed issues with verifying account status.",
+    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.1.1/ClawdAutomation.exe"
 }
