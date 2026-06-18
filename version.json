@@ -1,6 +1,6 @@
 {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "mandatory": true,
-    "changelog": "- Added 'Date Created' column to accounts table to track when they were created or imported.\n- Automatically speeds up starting orders by checking if the account is active before launching.\n- Fixed issues with verifying account status.",
-    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.1.1/ClawdAutomation.exe"
+    "changelog": "- Added support for targeting specific account groups or categories in Telegram commands using --group or --category.\n- Resolved performance lag and ADB timeouts on offline or unresponsive devices.\n- Improved Facebook automated login and session recovery reliability.",
+    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.1.2/ClawdAutomation.exe"
 }
