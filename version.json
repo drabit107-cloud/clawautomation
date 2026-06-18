@@ -1,6 +1,6 @@
 {
-    "version": "1.1.4",
+    "version": "1.1.5",
     "mandatory": true,
-    "changelog": "- Fixed UI SMM Combo crash.\n- Randomized SMM account selection from groups.\n- Added VPN connection retry loop (up to 3 attempts).\n- Revert account status on VPN connection failure.",
-    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.1.4/ClawdAutomation.exe"
+    "changelog": "- Fixed JSON serialization crash when registering accounts.\n- Upgraded Live status checker to use fast, UID-only Graph API check (same as checkuid.live).\n- Added 'Check All Accounts' capability to live checking.\n- Added 'Copy Selected UIDs' to account context menu.\n- Merged Checkpoint (CP) count under Die stats and removed the CP label.\n- Fixed stats panel not auto-refreshing on startup and manual refresh.",
+    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.1.5/ClawdAutomation.exe"
 }
