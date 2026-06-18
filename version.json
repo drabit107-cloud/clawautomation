@@ -1,6 +1,6 @@
 {
-    "version": "1.1.3",
+    "version": "1.1.4",
     "mandatory": true,
-    "changelog": "- Added Support for Combo Engagement (Comment + Share sequentially in a single UI flow).",
-    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.1.3/ClawdAutomation.exe"
+    "changelog": "- Fixed UI SMM Combo crash.\n- Randomized SMM account selection from groups.\n- Added VPN connection retry loop (up to 3 attempts).\n- Revert account status on VPN connection failure.",
+    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.1.4/ClawdAutomation.exe"
 }
