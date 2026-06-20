@@ -1,6 +1,6 @@
 {
-    "version": "1.1.6",
+    "version": "1.1.7",
     "mandatory": true,
-    "changelog": "- SMM Precheck: Accounts that die during Graph API pre-check are now marked as 'Die (Verified)' instead of 'Failed'.\n- SMM Precheck: Automatic replacement account injection — when a precheck-die occurs, a fresh account is picked and queued immediately so no SMM slot is wasted.\n- System stability and performance improvements.",
-    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.1.6/ClawdAutomation.exe"
+    "changelog": "- SMM Order Queuing: Integrated SMM task execution directly into the sequential device queues to prevent simultaneous execution conflicts.\n- Account Creation Tasks: Safe sequential enqueuing for account creation. Restoring/login/creation tasks now cleanly queue and wait behind other active tasks.\n- Timer & Event-Loop Bug Fixes: Replaced background QTimer singleShot calls with safe thread-sleeping and main-thread invocation to prevent silent task execution drops.\n- Intelligent Order Deferral: The client now automatically defers cloud SMM orders as pending when no active devices are connected or capacity is busy.",
+    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.1.7/ClawdAutomation.exe"
 }
