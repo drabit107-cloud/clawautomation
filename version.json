@@ -1,6 +1,6 @@
 {
-    "version": "1.1.8",
+    "version": "1.1.9",
     "mandatory": true,
-    "changelog": "- Zip Package Import: Added support for importing backup zip files containing accounts, Facebook backups, and device backups all at once.",
-    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.1.8/ClawdAutomation.exe"
+    "changelog": "- Accept Friend Requests: Added automatic friend request acceptance after feed scrolling.\n- Queue Clean Up: Fixed issues where failed or stopped creation tasks left temporary rows on screen.\n- Profile Setup Options: Added option to send friend requests to random live accounts during profile setup.\n- Add Friend by ID: Added support for adding friends by their ID in auto interactions.",
+    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.1.9/ClawdAutomation.exe"
 }
