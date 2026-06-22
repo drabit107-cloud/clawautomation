@@ -1,6 +1,6 @@
 {
-    "version": "1.2.2",
+    "version": "1.2.3",
     "mandatory": true,
-    "changelog": "- Auto-dismiss sticker suggestions: Automatically detects and hides the heart sticker suggestions bar if it blocks SMM UI reactions or comment inputs.",
-    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.2.2/ClawdAutomation.exe"
+    "changelog": "- Fixed Reaction Type Crash: Fixed a crash when performing reactions on standard posts if the order was configured without a specific reaction type (null/empty).",
+    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.2.3/ClawdAutomation.exe"
 }
