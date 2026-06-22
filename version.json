@@ -1,6 +1,6 @@
 {
-    "version": "1.2.1",
+    "version": "1.2.2",
     "mandatory": true,
-    "changelog": "- Fixed Reaction Panel Cutoff: Added auto-centering scroll logic when the Facebook Like button is too close to the bottom of the screen. This ensures the reactions panel displays fully in the middle of the screen and is not cut off by the comment input bar.",
-    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.2.1/ClawdAutomation.exe"
+    "changelog": "- Auto-dismiss sticker suggestions: Automatically detects and hides the heart sticker suggestions bar if it blocks SMM UI reactions or comment inputs.",
+    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.2.2/ClawdAutomation.exe"
 }
