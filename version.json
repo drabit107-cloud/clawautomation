@@ -1,6 +1,6 @@
 {
-    "version": "1.2.3",
+    "version": "1.2.4",
     "mandatory": true,
-    "changelog": "- Fixed Reaction Type Crash: Fixed a crash when performing reactions on standard posts if the order was configured without a specific reaction type (null/empty).",
-    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.2.3/ClawdAutomation.exe"
+    "changelog": "- Fixed Reels Short-Link Detection: Added support for shared Reels link patterns (/share/r/ and /r/) to prevent incorrect standard post classification and accidental scrolling on Reels.",
+    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.2.4/ClawdAutomation.exe"
 }
