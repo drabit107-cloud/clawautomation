@@ -1,6 +1,6 @@
 {
-    "version": "1.2.0",
+    "version": "1.2.1",
     "mandatory": true,
-    "changelog": "- Calibrated Facebook Reactions: Integrated UI-based post reactions (Love, Care, Haha, Wow, Sad, Angry) matching custom layouts like Reels mirrored direction and tapping coordinates offset.\n- Optimized Combo Flow: Updated SMM combo sequence to run React -> Share -> Comment with smart screen detection to avoid reopening standard posts and Reels unnecessarily.\n- Notifications Simulator: Added automated notification clearing and reading simulation steps before tasks.\n- Clean Backup State: Automatically redirects the Facebook app back to the News Feed before saving account backups.",
-    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.2.0/ClawdAutomation.exe"
+    "changelog": "- Fixed Reaction Panel Cutoff: Added auto-centering scroll logic when the Facebook Like button is too close to the bottom of the screen. This ensures the reactions panel displays fully in the middle of the screen and is not cut off by the comment input bar.",
+    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.2.1/ClawdAutomation.exe"
 }
