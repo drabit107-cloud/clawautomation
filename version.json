@@ -1,6 +1,6 @@
 {
-    "version": "1.1.9",
+    "version": "1.2.0",
     "mandatory": true,
-    "changelog": "- Accept Friend Requests: Added automatic friend request acceptance after feed scrolling.\n- Queue Clean Up: Fixed issues where failed or stopped creation tasks left temporary rows on screen.\n- Profile Setup Options: Added option to send friend requests to random live accounts during profile setup.\n- Add Friend by ID: Added support for adding friends by their ID in auto interactions.",
-    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.1.9/ClawdAutomation.exe"
+    "changelog": "- Calibrated Facebook Reactions: Integrated UI-based post reactions (Love, Care, Haha, Wow, Sad, Angry) matching custom layouts like Reels mirrored direction and tapping coordinates offset.\n- Optimized Combo Flow: Updated SMM combo sequence to run React -> Share -> Comment with smart screen detection to avoid reopening standard posts and Reels unnecessarily.\n- Notifications Simulator: Added automated notification clearing and reading simulation steps before tasks.\n- Clean Backup State: Automatically redirects the Facebook app back to the News Feed before saving account backups.",
+    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.2.0/ClawdAutomation.exe"
 }
