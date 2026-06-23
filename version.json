@@ -1,6 +1,6 @@
 {
-    "version": "1.2.4",
+    "version": "1.2.6",
     "mandatory": true,
-    "changelog": "- Fixed Reels Short-Link Detection: Added support for shared Reels link patterns (/share/r/ and /r/) to prevent incorrect standard post classification and accidental scrolling on Reels.",
-    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.2.4/ClawdAutomation.exe"
+    "changelog": "- Manual Backup: Added the ability to manually backup Facebook accounts and device parameters from the user interface.",
+    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.2.6/ClawdAutomation.exe"
 }
