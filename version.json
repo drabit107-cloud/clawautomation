@@ -1,6 +1,6 @@
 {
-    "version": "1.2.6",
+    "version": "1.2.7",
     "mandatory": true,
-    "changelog": "- Manual Backup: Added the ability to manually backup Facebook accounts and device parameters from the user interface.",
-    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.2.6/ClawdAutomation.exe"
+    "changelog": "- Database SQL Backup: Added automated daily database backups and a manual backup button to protect account records. Added a standalone recovery script for restoring accounts in case of database errors.",
+    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.2.7/ClawdAutomation.exe"
 }
