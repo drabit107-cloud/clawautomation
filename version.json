@@ -1,6 +1,6 @@
 {
-    "version": "1.2.8",
+    "version": "1.2.9",
     "mandatory": true,
-    "changelog": "- GraphQL Profile Setup & Token Extraction: Fixed device-side token validation and path checks, and fixed the facebook_utils import error crash.",
-    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.2.8/ClawdAutomation.exe"
+    "changelog": "- Token Extraction Fix: Fixed shell argument quoting for su -c calls and ADB path resolution in set_info.py to ensure the Facebook token is extracted correctly.",
+    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.2.9/ClawdAutomation.exe"
 }
