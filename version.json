@@ -1,6 +1,6 @@
 {
-    "version": "1.2.7",
+    "version": "1.2.8",
     "mandatory": true,
-    "changelog": "- Database SQL Backup: Added automated daily database backups and a manual backup button to protect account records. Added a standalone recovery script for restoring accounts in case of database errors.",
-    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.2.7/ClawdAutomation.exe"
+    "changelog": "- GraphQL Profile Setup & Token Extraction: Fixed device-side token validation and path checks, and fixed the facebook_utils import error crash.",
+    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.2.8/ClawdAutomation.exe"
 }
