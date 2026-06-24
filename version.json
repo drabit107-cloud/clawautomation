@@ -1,6 +1,6 @@
 {
-    "version": "1.3.0",
+    "version": "1.3.1",
     "mandatory": true,
-    "changelog": "- Connection Folder Path settings: Added a new setting to select a custom connection folder, resolving conflicts with other tools.\n- Friend Adding Protection: Automatically checks and skips deactivated or dead Facebook accounts to protect your profiles from being flagged.\n- Account Verification: Fixed expired session verification warnings on emulators.",
-    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.3.0/ClawdAutomation.exe"
+    "changelog": "- Storage Cleanup: Automatically cleans up uploaded profile pictures and cover photos from device storage to prevent gallery selection conflicts.\n- Page Recommendations: Added support for page recommendation tasks and custom/AI-generated reviews.",
+    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.3.1/ClawdAutomation.exe"
 }
