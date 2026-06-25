@@ -1,6 +1,6 @@
 {
-    "version": "1.3.2",
+    "version": "1.3.3",
     "mandatory": true,
-    "changelog": "- Bulk Account Customization: Automatically restores, checks, and configures account details sequentially.\n- Page Recommendations: Added support for Facebook Page reviews and custom recommendation messages.\n- Wizard Bypass: Automatically detects and closes setup popups and startup wizards to prevent automation from getting stuck.\n- Keyboard Dismissal: Automatically closes the soft keyboard after typing review texts.",
-    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.3.2/ClawdAutomation.exe"
+    "changelog": "- Compatibility Fixes: Resolves token extraction and profile picture configuration failures on client emulators.\n- Slower PC Support: Speeds up profile picture setup and adds auto-retries for selecting gallery photos.",
+    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.3.3/ClawdAutomation.exe"
 }
