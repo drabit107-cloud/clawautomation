@@ -1,6 +1,6 @@
 {
-    "version": "1.3.4",
+    "version": "1.3.5",
     "mandatory": true,
-    "changelog": "- Compatibility Fixes: Resolves client-side profile details updates (bio, hometown, workplace, current city).\n- Gallery Upload Fixes: Ensures newly pushed photos are immediately visible in the gallery for selection.",
-    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.3.4/ClawdAutomation.exe"
+    "changelog": "- Facebook Page Reviews: Added support for page recommendation tasks and custom reviews.\n- Reels Watching Simulation: Added automatic video scrolling and watching on the Reels tab.\n- Natural Simulation Order: Randomized sequencing of home feed scrolling, notification checking, friend requests, and Reels watching to look more like natural human activity.\n- Automatic Feed Refresh: Automatically swipes down to refresh feeds and notifications pages to ensure content is fully loaded.",
+    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.3.5/ClawdAutomation.exe"
 }
