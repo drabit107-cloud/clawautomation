@@ -1,6 +1,6 @@
 {
-    "version": "1.3.6",
+    "version": "1.3.7",
     "mandatory": true,
-    "changelog": "- Facebook Page Reviews: Added support for page recommendation tasks and custom reviews.\n- Reels Watching Simulation: Added automatic video scrolling and watching on the Reels tab.\n- Natural Simulation Order: Randomized sequencing of home feed scrolling, notification checking, friend requests, and Reels watching to look more like natural human activity.\n- Automatic Feed Refresh: Automatically swipes down to refresh feeds and notifications pages to ensure content is fully loaded.\n- Telegram Bot Comment Regeneration: Added a button to request new AI comments, recommendations, or suggestions directly from Telegram before approving.\n- Smart Comment Style Matching: Automatically matches your tone, style, and Taglish/colloquial language when examples are provided.\n- Optimized Device Monitoring: Improved device status checks and optimized network usage.",
-    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.3.6/ClawdAutomation.exe"
+    "changelog": "- Cryptographic Security Upgrades: Hardened security settings, upgraded authentication keys, and improved license validation.\n- Transaction Protection: Improved payment and voucher processing to prevent transaction errors.\n- Windows Auto-Updater: The application can now automatically download and install updates without manual file replacement.",
+    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.3.7/ClawdAutomation.exe"
 }
