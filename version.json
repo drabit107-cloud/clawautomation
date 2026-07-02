@@ -1,6 +1,6 @@
 {
-    "version": "1.3.7",
+    "version": "1.3.8",
     "mandatory": true,
-    "changelog": "- Cryptographic Security Upgrades: Hardened security settings, upgraded authentication keys, and improved license validation.\n- Transaction Protection: Improved payment and voucher processing to prevent transaction errors.\n- Windows Auto-Updater: The application can now automatically download and install updates without manual file replacement.",
-    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.3.7/ClawdAutomation.exe"
+    "changelog": "- SMM Task Prioritization: SMM tasks (likes, comments, etc.) are now prioritized to execute immediately after the currently running task finishes, automatically resuming pending account creation tasks afterwards.",
+    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.3.8/ClawdAutomation.exe"
 }
