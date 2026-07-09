@@ -1,6 +1,6 @@
 {
-    "version": "1.3.8",
+    "version": "1.3.9",
     "mandatory": true,
-    "changelog": "- SMM Task Prioritization: SMM tasks (likes, comments, etc.) are now prioritized to execute immediately after the currently running task finishes, automatically resuming pending account creation tasks afterwards.",
-    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.3.8/ClawdAutomation.exe"
+    "changelog": "- Partial Order Support: SMM orders will now run partially if you do not have enough accounts, instead of failing the entire request.\n- Real Human Simulation: Improved account safety by adding natural home feed navigation, scrolling, and page refreshing during runs.\n- Stability Upgrades: Under-the-hood optimization for faster and more stable automated tasks.",
+    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.3.9/ClawdAutomation.exe"
 }
