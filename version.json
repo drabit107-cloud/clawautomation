@@ -1,6 +1,6 @@
 {
-    "version": "1.4.0",
+    "version": "1.4.1",
     "mandatory": true,
-    "changelog": "- Dynamic Novery Fee Adjustment: The Novery backup fee (deducted from cancelled SMS activations where data was successfully recovered) is now dynamically adjustable in the admin panel.",
-    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.4.0/ClawdAutomation.exe"
+    "changelog": "- SMM Tab Update: Redesigned the SMM interface with a new split layout featuring a structured local ordering form and a command-line chat helper. Added automatic sync for account groups and resolved a Telegram bot comment order processing issue.",
+    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.4.1/ClawdAutomation.exe"
 }
