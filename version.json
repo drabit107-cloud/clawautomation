@@ -1,6 +1,6 @@
 {
-    "version": "1.4.1",
+    "version": "1.4.2",
     "mandatory": true,
-    "changelog": "- SMM Tab Update: Redesigned the SMM interface with a new split layout featuring a structured local ordering form and a command-line chat helper. Added automatic sync for account groups and resolved a Telegram bot comment order processing issue.",
-    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.4.1/ClawdAutomation.exe"
+    "changelog": "- Automatic Facebook Pages SMM Support: Standard tasks (likes, comments, shares, combos) now automatically run using all Facebook pages managed by your accounts, multiplying your credits naturally. If an account has no pages, it safely falls back to using the personal profile.\n- Fast Background Sharing: Post sharing now runs instantly in the background without launching the browser or opening the Facebook app screen on your emulator, keeping tasks fast and secure.\n- Smart Restriction Skipping: Automatically detects when Facebook temporarily blocks an account from sharing, commenting, or reacting, and logs the block expiration date. The app will automatically skip that account for the blocked action to prevent further bans.\n- Intelligent Combo Step Skipping: Combo tasks (Like + Share + Comment) will now dynamically skip only the blocked steps (e.g., skip share if blocked) while successfully completing the other allowed actions (like reacting and commenting).",
+    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.4.2/ClawdAutomation.exe"
 }
