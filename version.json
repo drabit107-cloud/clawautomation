@@ -1,6 +1,6 @@
 {
-    "version": "1.4.4",
+    "version": "1.4.6",
     "mandatory": true,
-    "changelog": "- Open Facebook Link Feature: Direct deep-link injection button ('Open FB Link') and context menu options to open any Facebook post or share link directly inside the Facebook app on selected emulators.\n- Automatic Name Sync on Backup: Automatically retrieves and updates the account's latest display Name in the app table every time a backup is performed, using the emulator's secure VPN tunnel.\n- OpenVPN Reliability & Persistence: Restructured the Restore Backup pipeline so device identity and profile setup complete before VPN initialization, ensuring OpenVPN connections remain steady without dropping.\n- Battery Optimization Whitelisting: Added system-level battery optimization and background execution whitelisting for OpenVPN to prevent low memory killers from disconnecting the VPN.\n- App Launching Focus: Improved foreground focus handling to ensure the Facebook app opens cleanly on top of all emulators after restore operations.",
-    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.4.4/ClawdAutomation.exe"
+    "changelog": "- NoVery Group Pool Integration: Added NoVery group pool support to the local order form for offline post reaction orders.\n- Reaction Type Restrictions: Restricted NoVery orders strictly to Reaction actions (Like, Love, Haha, Wow, Sad, Angry) while excluding CARE reactions.\n- Maximum Order Capacity Cap: Added an automatic quantity limit of 300 per order to ensure smooth processing.\n- Web API Forwarding: Integrated seamless forwarding of NoVery orders via secure Clawd Web API with discrete status reporting.",
+    "download_url": "https://github.com/drabit107-cloud/clawautomation/releases/download/v1.4.6/ClawdAutomation.exe"
 }
